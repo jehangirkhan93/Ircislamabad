@@ -1,0 +1,923 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Pulmonary Function Tests in Islamabad | Spirometry, FeNO & PFTs | IRC Islamabad</title>
+
+<meta name="description" content="Pulmonary Function Tests at IRC Islamabad, G-11 Markaz, including spirometry, FeNO and peak-flow assessment. Tests are performed with clinical interpretation and same-day reporting where available.">
+
+<meta name="keywords" content="Pulmonary Function Tests Islamabad, PFT test Islamabad, Spirometry Islamabad, FeNO test Islamabad, lung function test Islamabad">
+
+<meta name="robots" content="index, follow, max-image-preview:large">
+
+<link rel="canonical" href="https://ircislamabad.com/pulmonary-functions-tests-performed-at-irc-islamabad">
+
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://ircislamabad.com/pulmonary-functions-tests-performed-at-irc-islamabad">
+<meta property="og:title" content="Pulmonary Function Tests in Islamabad | IRC Islamabad">
+<meta property="og:description" content="Pulmonary function testing at IRC Islamabad, including spirometry, FeNO and peak-flow assessment.">
+<meta property="og:site_name" content="Islamabad Respiratory Clinic">
+
+<meta name="author" content="Dr Jehangir Khan">
+
+<!-- MedicalWebPage Schema -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "MedicalWebPage",
+  "name": "Pulmonary Function Tests Performed at IRC Islamabad",
+  "url": "https://ircislamabad.com/pulmonary-functions-tests-performed-at-irc-islamabad",
+  "author": {
+    "@type": "Physician",
+    "name": "Dr Jehangir Khan",
+    "jobTitle": "Consultant Pulmonologist"
+  },
+  "reviewedBy": {
+    "@type": "Physician",
+    "name": "Dr Muhammad Israr"
+  },
+  "lastReviewed": "2026-09-29",
+  "about": {
+    "@type": "MedicalProcedure",
+    "name": "Pulmonary Function Tests"
+  }
+}
+</script>
+
+<!-- FAQ Schema -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What pulmonary function tests are available at IRC Islamabad?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Depending on clinical need, IRC Islamabad offers respiratory assessment that can include spirometry, FeNO and peak-flow assessment. The appropriate tests are selected according to the patient's symptoms and clinical evaluation."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is a FeNO test?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "FeNO, or fractional exhaled nitric oxide, is a non-invasive test that provides information about type 2 airway inflammation. It can be useful when evaluating asthma and when assessing response to anti-inflammatory treatment. Results should be interpreted together with symptoms and other clinical findings."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How is spirometry used in respiratory assessment?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Spirometry measures airflow and commonly reports values such as FEV1 and FVC. It can help clinicians assess airflow limitation and evaluate conditions such as asthma and COPD when interpreted alongside the patient's history and examination."
+      }
+    }
+  ]
+}
+</script>
+
+<!-- Google Fonts -->
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@600;700&family=Source+Sans+3:wght@400;600&display=swap" rel="stylesheet">
+
+<style>
+:root{
+  --navy:#060c17;
+  --navy2:#0d1d33;
+  --gold:#d4af37;
+  --gold2:#f3dd9a;
+  --gold3:#e9c766;
+  --muted:#a9b8cf;
+  --muted2:#7c8ba3;
+  --line:rgba(212,175,55,0.28);
+  --max:860px;
+}
+
+*{
+  box-sizing:border-box;
+}
+
+html{
+  scroll-behavior:smooth;
+}
+
+body{
+  margin:0;
+  background:#060c17;
+  color:#f4eedd;
+  font-family:'Source Sans 3',sans-serif;
+  line-height:1.8;
+  overflow-x:hidden;
+}
+
+.wrap{
+  max-width:var(--max);
+  margin:0 auto;
+  padding:0 24px;
+}
+
+a{
+  color:var(--gold);
+  text-decoration:none;
+}
+
+a:hover{
+  text-decoration:underline;
+}
+
+h1,
+h2,
+h3{
+  font-family:'Cormorant Garamond',serif;
+  color:var(--gold2);
+}
+
+header{
+  position:sticky;
+  top:0;
+  z-index:10;
+  background:rgba(6,12,23,0.92);
+  backdrop-filter:blur(12px);
+  border-bottom:1px solid var(--line);
+  padding:14px 0;
+}
+
+.badge{
+  font-size:11px;
+  letter-spacing:0.16em;
+  text-transform:uppercase;
+  color:var(--gold);
+  border:1px solid var(--line);
+  padding:6px 12px;
+  border-radius:999px;
+  display:inline-block;
+  margin-bottom:12px;
+}
+
+.content p{
+  color:#d9e0ec;
+  font-size:17px;
+  margin-bottom:18px;
+}
+
+.content h2{
+  font-size:clamp(24px,3.2vw,32px);
+  margin-top:44px;
+  margin-bottom:14px;
+  border-left:3px solid var(--gold);
+  padding-left:14px;
+}
+
+.content h3{
+  font-size:24px;
+  margin-top:30px;
+}
+
+.content ul{
+  padding-left:20px;
+  margin-bottom:18px;
+}
+
+.content li{
+  margin-bottom:10px;
+  color:#d9e0ec;
+}
+
+.info-box{
+  background:var(--navy2);
+  border:1px solid var(--line);
+  border-radius:14px;
+  padding:22px;
+  margin:28px 0;
+}
+
+.cta{
+  background:linear-gradient(180deg,var(--gold3),#b8892f);
+  color:#101008;
+  padding:12px 24px;
+  border-radius:999px;
+  font-weight:700;
+  display:inline-block;
+}
+
+.asthma-folder{
+  position:relative;
+  background:linear-gradient(180deg,#12263f 0%,#0d1d33 100%);
+  border:2px solid var(--gold);
+  border-radius:20px;
+  padding:0;
+  overflow:hidden;
+  box-shadow:0 20px 60px -20px rgba(212,175,55,0.4);
+  margin:36px 0;
+}
+
+.folder-head{
+  background:linear-gradient(
+    90deg,
+    rgba(212,175,55,0.18),
+    rgba(212,175,55,0.05)
+  );
+  border-bottom:1px solid var(--line);
+  padding:16px 24px;
+  display:flex;
+  align-items:center;
+  gap:12px;
+}
+
+.folder-icon{
+  width:40px;
+  height:32px;
+  background:var(--gold3);
+  color:#101008;
+  border-radius:4px;
+  display:grid;
+  place-items:center;
+  font-size:18px;
+}
+
+.folder-head h3{
+  font-size:20px;
+  margin:0;
+}
+
+.folder-body{
+  padding:26px 24px;
+}
+
+.pft-grid{
+  display:grid;
+  grid-template-columns:repeat(auto-fit,minmax(240px,1fr));
+  gap:16px;
+  margin:20px 0;
+}
+
+.pft-card{
+  background:rgba(13,29,51,0.8);
+  border:1px solid var(--line);
+  border-radius:14px;
+  padding:18px;
+}
+
+.pft-card h4{
+  font-size:16px;
+  color:var(--gold2);
+  margin:0 0 6px;
+}
+
+.pft-card p{
+  font-size:13px;
+  color:var(--muted);
+  margin:0;
+}
+
+.table{
+  width:100%;
+  border-collapse:collapse;
+  margin:18px 0;
+  font-size:14px;
+}
+
+.table th,
+.table td{
+  border:1px solid var(--line);
+  padding:10px 12px;
+  text-align:left;
+}
+
+.table th{
+  background:var(--navy2);
+  color:var(--gold2);
+}
+
+.table td{
+  color:var(--muted);
+}
+
+.gallery{
+  margin:20px 0;
+}
+
+.gal-card{
+  background:var(--navy2);
+  border:1px solid var(--line);
+  border-radius:14px;
+  overflow:hidden;
+}
+
+.gal-card video{
+  width:100%;
+  height:auto;
+  display:block;
+  background:#000;
+}
+
+.gal-body{
+  padding:14px 16px;
+}
+
+.gal-body h4{
+  font-size:16px;
+  color:var(--gold2);
+  margin:0 0 4px;
+}
+
+.gal-body p{
+  font-size:13px;
+  color:var(--muted2);
+  margin:0;
+}
+
+.note{
+  color:var(--muted2);
+  font-size:13px;
+}
+
+@media(max-width:600px){
+
+  .wrap{
+    padding-left:18px;
+    padding-right:18px;
+  }
+
+  header{
+    padding:11px 0;
+  }
+
+  header span{
+    font-size:12px !important;
+  }
+
+  .folder-head{
+    padding:14px 16px;
+  }
+
+  .folder-body{
+    padding:20px 16px;
+  }
+
+  .content p{
+    font-size:16px;
+  }
+
+  .table{
+    font-size:13px;
+  }
+
+  .table th,
+  .table td{
+    padding:8px;
+  }
+}
+</style>
+</head>
+
+<body>
+
+<header>
+  <div class="wrap">
+
+    <a
+      href="/"
+      style="
+        font-weight:700;
+        color:var(--gold2);
+        font-family:'Cormorant Garamond',serif;
+        font-size:20px;
+      "
+    >
+      IRC ISLAMABAD
+    </a>
+
+    <span style="float:right;font-size:14px;">
+      <a href="/">Home</a>
+      |
+      <a href="/#doctors">Doctors</a>
+      |
+      <a href="#video">Video</a>
+    </span>
+
+  </div>
+</header>
+
+
+<main>
+
+<div class="wrap" style="padding:44px 24px 20px;">
+
+  <div class="badge">
+    Pulmonary Function Testing - G-11 Markaz
+  </div>
+
+  <h1 style="font-size:clamp(30px,5vw,46px);line-height:1.1;margin-bottom:12px;">
+    Pulmonary Function Tests Performed at IRC Islamabad
+  </h1>
+
+  <p style="color:var(--muted2);font-size:13px;">
+    By Dr Jehangir Khan &amp; Dr Muhammad Israr |
+    IRC Clinic, Saeed International Hospital, G-11 Markaz Islamabad |
+    0343-1510025 |
+    Updated 29 Sep 2026
+  </p>
+
+
+  <div class="content">
+
+    <p>
+      Pulmonary Function Tests (PFTs) are breathing tests used to assess
+      how well the lungs and airways are working. At IRC Islamabad,
+      respiratory assessment may include spirometry, FeNO and peak-flow
+      evaluation depending on the patient's symptoms and clinical needs.
+    </p>
+
+    <p>
+      Test results are interpreted together with the patient's medical
+      history, symptoms and examination. A pulmonary function test can
+      help clinicians investigate conditions such as asthma, COPD and
+      other causes of breathing difficulty.
+    </p>
+
+
+    <div class="asthma-folder">
+
+      <div class="folder-head">
+
+        <div class="folder-icon">
+          📁
+        </div>
+
+        <h3>
+          Respiratory and Asthma Assessment at IRC Islamabad
+        </h3>
+
+      </div>
+
+      <div class="folder-body">
+
+        <p
+          style="
+            color:var(--gold2);
+            font-weight:600;
+            font-size:16px;
+          "
+        >
+          A structured assessment can help identify the cause of
+          breathing symptoms and guide treatment.
+        </p>
+
+        <p
+          style="
+            font-size:15px;
+            color:var(--muted);
+          "
+        >
+          Depending on the clinical situation, assessment may include
+          several complementary tests and reviews.
+        </p>
+
+        <ul>
+
+          <li>
+            <strong>1. Spirometry:</strong>
+            Measures airflow and values such as FEV1 and FVC.
+            It can help assess airflow limitation.
+          </li>
+
+          <li>
+            <strong>2. FeNO:</strong>
+            Measures fractional exhaled nitric oxide and can provide
+            information about type 2 airway inflammation.
+          </li>
+
+          <li>
+            <strong>3. Allergy assessment:</strong>
+            Allergy testing may be considered when an allergic trigger
+            is suspected.
+          </li>
+
+          <li>
+            <strong>4. Inhaler technique review:</strong>
+            Correct inhaler technique can be checked when inhaled
+            medication is prescribed.
+          </li>
+
+          <li>
+            <strong>5. Asthma action planning:</strong>
+            Patients with asthma may receive an individualized plan
+            for monitoring symptoms and responding to worsening
+            symptoms.
+          </li>
+
+        </ul>
+
+        <p
+          style="
+            font-size:14px;
+            color:var(--muted2);
+          "
+        >
+          For patients with severe asthma, treatment decisions may
+          consider symptoms, exacerbation history, blood eosinophils,
+          IgE, allergy status, FeNO and other clinical factors.
+          Biologic treatment is considered individually when appropriate.
+        </p>
+
+      </div>
+
+    </div>
+
+
+    <h2>
+      Pulmonary Function Tests Performed at IRC Islamabad
+    </h2>
+
+
+    <div class="pft-grid">
+
+      <div class="pft-card">
+        <h4>
+          1. Spirometry (PFT)
+        </h4>
+        <p>
+          Measures airflow and commonly reports FEV1, FVC and the
+          FEV1/FVC ratio. Results are interpreted in clinical context.
+        </p>
+      </div>
+
+
+      <div class="pft-card">
+        <h4>
+          2. FeNO Test
+        </h4>
+        <p>
+          A non-invasive test that provides information about type 2
+          airway inflammation and may support asthma assessment.
+        </p>
+      </div>
+
+
+      <div class="pft-card">
+        <h4>
+          3. Lung Age Assessment
+        </h4>
+        <p>
+          Some lung-function devices provide an estimated lung-age
+          measure based on breathing-test results. It is not a diagnosis.
+        </p>
+      </div>
+
+
+      <div class="pft-card">
+        <h4>
+          4. Carbon Monoxide Assessment
+        </h4>
+        <p>
+          Exhaled carbon monoxide testing can be used as part of
+          smoking-related respiratory assessment and smoking-cessation
+          support.
+        </p>
+      </div>
+
+
+      <div class="pft-card">
+        <h4>
+          5. Peak Flow Monitoring
+        </h4>
+        <p>
+          Peak-flow measurements can help some patients monitor changes
+          in airflow over time, particularly when asthma is suspected.
+        </p>
+      </div>
+
+
+      <div class="pft-card">
+        <h4>
+          6. Individualized Testing
+        </h4>
+        <p>
+          The appropriate combination of tests depends on symptoms,
+          medical history and the clinician's assessment.
+        </p>
+      </div>
+
+    </div>
+
+
+    <h2>
+      FeNO Test - What It Can Tell You
+    </h2>
+
+    <p>
+      FeNO (fractional exhaled nitric oxide) is a non-invasive breathing
+      test that can provide information about type 2 airway inflammation.
+      It may be useful when evaluating asthma and when assessing response
+      to anti-inflammatory treatment.
+    </p>
+
+    <p>
+      FeNO should not be interpreted by itself. Symptoms, medication
+      history, spirometry and other clinical findings can affect how
+      the result is interpreted.
+    </p>
+
+
+    <table class="table">
+
+      <tr>
+        <th>FeNO Result</th>
+        <th>General Interpretation</th>
+        <th>Clinical Context</th>
+      </tr>
+
+      <tr>
+        <td>&lt;25 ppb</td>
+        <td>Lower FeNO level</td>
+        <td>
+          Less evidence of type 2 airway inflammation, although
+          asthma is not excluded.
+        </td>
+      </tr>
+
+      <tr>
+        <td>25-50 ppb</td>
+        <td>Intermediate level</td>
+        <td>
+          Interpretation should consider symptoms, treatment history
+          and other findings.
+        </td>
+      </tr>
+
+      <tr>
+        <td>&gt;50 ppb</td>
+        <td>Higher FeNO level</td>
+        <td>
+          May support the presence of type 2 airway inflammation;
+          clinical context remains important.
+        </td>
+      </tr>
+
+    </table>
+
+
+    <h3>
+      FeNO and Assessment of Severe Asthma
+    </h3>
+
+    <p>
+      For patients with severe asthma, FeNO can be one part of a broader
+      assessment. Depending on the clinical picture, a specialist may
+      also consider blood eosinophils, IgE, allergy status, exacerbation
+      history, current treatment and other clinical factors.
+    </p>
+
+    <ul>
+
+      <li>
+        <strong>Omalizumab:</strong>
+        May be considered for eligible patients with allergic asthma.
+      </li>
+
+      <li>
+        <strong>Dupilumab:</strong>
+        May be considered for eligible patients with appropriate
+        type 2 inflammatory features.
+      </li>
+
+      <li>
+        <strong>Mepolizumab or other anti-IL-5/IL-5R therapies:</strong>
+        May be considered for eligible patients with eosinophilic asthma.
+      </li>
+
+    </ul>
+
+    <p>
+      The choice of biologic treatment is individualized and should be
+      made by the treating specialist after reviewing the patient's
+      clinical history, test results and eligibility criteria.
+    </p>
+
+
+    <h2>
+      Why Patients Choose IRC Islamabad for PFT Assessment
+    </h2>
+
+    <ul>
+
+      <li>
+        <strong>Respiratory-focused assessment:</strong>
+        Pulmonary function testing is available as part of respiratory
+        evaluation.
+      </li>
+
+      <li>
+        <strong>Clinical interpretation:</strong>
+        Test results can be reviewed together with symptoms and medical
+        history.
+      </li>
+
+      <li>
+        <strong>Asthma assessment:</strong>
+        Spirometry, FeNO and other appropriate assessments may be used
+        when clinically indicated.
+      </li>
+
+      <li>
+        <strong>Specialist care:</strong>
+        Respiratory assessment is provided in a specialist pulmonary
+        clinic setting.
+      </li>
+
+      <li>
+        <strong>Location:</strong>
+        IRC Clinic, Saeed International Hospital, G-11 Markaz,
+        Islamabad.
+      </li>
+
+    </ul>
+
+
+    <div class="info-box">
+
+      <h3 style="color:var(--gold2);">
+        Test Cost, Preparation and Timing
+      </h3>
+
+      <p style="margin:0;font-size:14px;color:var(--muted);">
+
+        <strong>Cost:</strong>
+        Package and individual test pricing are available by calling
+        the clinic.
+
+        <br>
+
+        <strong>Preparation:</strong>
+        Follow the clinic's specific instructions before testing.
+        Depending on the test, smoking, exercise and certain foods
+        may affect results.
+
+        <br>
+
+        <strong>Time:</strong>
+        Testing time varies according to the tests required.
+
+        <br>
+
+        <strong>Reports:</strong>
+        Same-day reporting may be available depending on the test
+        and clinical workflow.
+
+        <br>
+
+        <strong>Address:</strong>
+        IRC Clinic, Saeed International Hospital, G-11 Markaz Islamabad.
+
+      </p>
+
+    </div>
+
+
+    <h2 id="video">
+      Video: Pulmonary Function Testing at IRC Islamabad
+    </h2>
+
+    <p>
+      This video shows pulmonary function testing at Islamabad
+      Respiratory Clinic.
+    </p>
+
+
+    <div class="gallery">
+
+      <div class="gal-card">
+
+        <video
+          controls
+          preload="metadata"
+          playsinline
+        >
+          <source
+            src="/spirometry.mp4"
+            type="video/mp4"
+          >
+
+          Your browser does not support HTML5 video.
+        </video>
+
+        <div class="gal-body">
+
+          <h4>
+            Pulmonary Function Testing at IRC Islamabad
+          </h4>
+
+          <p>
+            Video showing pulmonary function testing at
+            Islamabad Respiratory Clinic.
+          </p>
+
+        </div>
+
+      </div>
+
+    </div>
+
+
+    <div class="info-box">
+
+      <h3 style="color:var(--gold2);">
+        Related Articles
+      </h3>
+
+      <p style="margin:0;">
+
+        → <a href="/spirometry-test-islamabad">
+          Spirometry Test Cost &amp; Procedure
+        </a>
+
+        <br>
+
+        → <a href="/allergy-test-islamabad.html">
+          Allergy Test &amp; Vaccine
+        </a>
+
+        <br>
+
+        → <a href="/asthma/asthma-management-islamabad.html">
+          Asthma Management
+        </a>
+
+        <br>
+
+        → <a href="/inhalers-asthma-treatment.html">
+          Inhalers for Asthma
+        </a>
+
+        <br>
+
+        → <a href="/copd-treatment">
+          COPD Treatment
+        </a>
+
+      </p>
+
+    </div>
+
+  </div>
+
+</div>
+
+
+<div
+  style="
+    background:var(--navy2);
+    border:1px solid var(--line);
+    border-radius:16px;
+    padding:24px;
+    margin:32px auto;
+    max-width:860px;
+  "
+>
+
+  <h3 style="margin:0 0 8px;">
+    Book Pulmonary Function Testing
+  </h3>
+
+  <p style="color:var(--muted);font-size:14px;">
+    IRC Clinic, Saeed International Hospital, G-11 Markaz |
+    Dr Jehangir Khan &amp; Dr Muhammad Israr
+  </p>
+
+  <a
+    href="tel:03431510025"
+    class="cta"
+  >
+    📞 Call 0343-1510025 - Appointment
+  </a>
+
+</div>
+
+</main>
+
+
+<footer
+  style="
+    text-align:center;
+    padding:36px 24px;
+    border-top:1px solid var(--line);
+    color:var(--muted2);
+    font-size:12px;
+    margin-top:40px;
+  "
+>
+
+  © 2026 IRC Islamabad - Saeed International Hospital G-11
+  |
+  <a href="/">Home</a>
+  |
+  <a href="/sitemap.xml">Sitemap</a>
+
+</footer>
+
+</body>
+</html>
